@@ -1,0 +1,47 @@
+[  
+  {  
+    "key":"Bitcoin",
+    "values":[  
+      {  
+        "reason":"Monetary Policy",
+        "device":"Bitcoin",
+        "value":1
+      },
+      {  
+        "reason":"Consensus Mechanism",
+        "device":"Bitcoin",
+        "value":1
+      },
+      {  
+        "reason":"Hashing Algorithm",
+        "device":"Bitcoin",
+        "value":1
+      },
+      {  
+        "reason":"Chain State",
+        "device":"Bitcoin",
+        "value":1
+      },
+      {  
+        "reason":"Reserved State Space",
+        "device":"Bitcoin",
+        "value":0.67
+      },
+      {  
+        "reason":"Transaction History",
+        "device":"Bitcoin",
+        "value":1
+      },
+      {  
+        "reason":"Transaction Finality",
+        "device":"Bitcoin",
+        "value":1
+      },
+      {  
+        "reason":"Pre-Described Agreements",
+        "device":"Bitcoin",
+        "value":1
+      }
+    ]
+  }
+]

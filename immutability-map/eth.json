@@ -1,0 +1,47 @@
+[  
+  {
+    "key":"Ethereum",
+    "values":[  
+      {  
+        "reason":"Monetary Policy",
+        "device":"Ethereum",
+        "value":0.57
+      },
+      {  
+        "reason":"Consensus Mechanism",
+        "device":"Ethereum",
+        "value":1
+      },
+      {  
+        "reason":"Hashing Algorithm",
+        "device":"Ethereum",
+        "value":1
+      },
+      {  
+        "reason":"Chain State",
+        "device":"Ethereum",
+        "value":0.25
+      },
+      {  
+        "reason":"Reserved State Space",
+        "device":"Ethereum",
+        "value":0.57
+      },
+      {  
+        "reason":"Transaction History",
+        "device":"Ethereum",
+        "value":1
+      },
+      {  
+        "reason":"Transaction Finality",
+        "device":"Ethereum",
+        "value":1
+      },
+      {  
+        "reason":"Pre-Described Agreements",
+        "device":"Ethereum",
+        "value":0.25
+      }
+    ]
+  }
+]

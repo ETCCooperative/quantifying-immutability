@@ -1,0 +1,47 @@
+[  
+  {  
+    "key":"Ethereum Classic",
+    "values":[  
+      {  
+        "reason":"Monetary Policy",
+        "device":"Ethereum Classic",
+        "value":0.63
+      },
+      {  
+        "reason":"Consensus Mechanism",
+        "device":"Ethereum Classic",
+        "value":1
+      },
+      {  
+        "reason":"Hashing Algorithm",
+        "device":"Ethereum Classic",
+        "value":1
+      },
+      {  
+        "reason":"Chain State",
+        "device":"Ethereum Classic",
+        "value":1
+      },
+      {  
+        "reason":"Reserved State Space",
+        "device":"Ethereum Classic",
+        "value":1
+      },
+      {  
+        "reason":"Transaction History",
+        "device":"Ethereum Classic",
+        "value":1
+      },
+      {  
+        "reason":"Transaction Finality",
+        "device":"Ethereum Classic",
+        "value":1
+      },
+      {  
+        "reason":"Pre-Described Agreements",
+        "device":"Ethereum Classic",
+        "value":0.31
+      }
+    ]
+  }
+]
